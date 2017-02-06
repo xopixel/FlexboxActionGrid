@@ -1,0 +1,71 @@
+body {
+    background: #caa7d8;
+}
+
+.xop-section {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: normal;
+    font-size: 1.6rem;
+    line-height: 1.3;
+}
+
+.xop-wrapper {
+    max-width: 85%;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.xop-container {
+    display: flex;
+    margin: 2% 0;
+}
+
+.xop-actionBox {
+    width: 270px;
+    height: 270px;
+    background: #9b59b6;
+    text-align: center;
+    color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    margin: 2%;
+}
+
+@media screen and (max-width:1070px) {
+    .xop-container {
+        flex-direction: column;
+    }
+    .xop-actionBox {
+        height: 270px;
+        width: 200px;
+    }
+}
+
+.xop-heading {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 2% 0;
+}
+
+.xop-text {
+    padding: 4% 0;
+    line-height: 1.4;
+}
+
+.xop-btn {
+    background: #fff;
+    border: none;
+    padding: 5%;
+    width: 100%;
+    color: #9b59b6;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.xop-btn:hover {
+    background: #b482c8;
+    color: #fff;
+    cursor: pointer;
+}
