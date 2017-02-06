@@ -1,5 +1,5 @@
 # Flexbox Action Grid Tutorial
-How to code an action grid using the flexbox layout—an easy and quick way to create a responsive grid layout on any website with CSS3. This tutorial will feature three action boxes; download, upload, and share. They also feature icons from Font Awesome.
+Code an action grid using the flexbox layout—a easy and quick way to create a responsive grid layout on any website with CSS3. This tutorial will feature three action boxes; download, upload, and share. They also feature icons from Font Awesome.
 
 [Read the article](http://xopixel.com/flexbox-action-grid-html5-css3/) on XO PIXEL
 & [View the demo](http://xopixel.com/demo/Flexbox%20Action%20Grid/)
