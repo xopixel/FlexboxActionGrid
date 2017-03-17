@@ -5,7 +5,7 @@ Code an action grid using the flexbox layout—a easy and quick way to create a 
 & [View the demo](http://xopixel.com/demo/Flexbox%20Action%20Grid/)
 
 ## License 
-Read the License & Terms of Use [here](http://xopixel.com/terms-licensing/)
+Read the License & Terms of Use [here](http://xopixel.com/terms-of-use/)
 
 ## Credits
 - [Font Awesome](fontawesome.io)
